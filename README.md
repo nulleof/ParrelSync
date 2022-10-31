@@ -13,12 +13,15 @@ ParrelSync is a Unity editor extension that allows users to test multiplayer gam
 </p>
 
 ## Features
+0. This fork feature: removed annoying dialog with modification alert
 1. Test multiplayer gameplay without building the project
 2. GUI tools for managing all project clones
 3. Protected assets from being modified by other clone instances
 4. Handy APIs to speed up testing workflows
+
 ## Installation
 
+0. This fork installation way: use Unity Package Manager with git link `https://github.com/nulleof/ParrelSync.git?path=/ParrelSync`
 1. Backup your project folder or use a version control system such as [Git](https://git-scm.com/) or [SVN](https://subversion.apache.org/)
 2. Download .unitypackage from the [latest release](https://github.com/VeriorPies/ParrelSync/releases) and import it to your project. 
 3.  ParrelSync should appreared in the menu item bar after imported
